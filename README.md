@@ -56,6 +56,17 @@ a qt pymenu
 
 
 but most likely a dbus connected server that will serve ALL of the above
+###planned network models###
+localhost
+
+peer to swarm broadcast via p2p
+
+centralised
+
+
+above models with or without auth and encryption
+
+
 
 ===============
 
